@@ -37,6 +37,5 @@ function filterData(searchTerm) {
     } else {
       item.classList.add('hide')
     }
-    console.log(item)
   }) 
 }
